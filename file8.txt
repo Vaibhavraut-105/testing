@@ -1,0 +1,2 @@
+this is my terminal file pushing on git hub
+and i am trying to solve the conflict on vs code 
